@@ -1,0 +1,17 @@
+# Same as .gitignore plus some deployment-specific ignores
+
+node_modules
+.next
+out
+build
+dist
+
+# Environment local files
+.env*.local
+
+# Design artifacts & Readmes not needed for production
+README.md
+In-My-Solitude-Library-Project-Plan.md
+
+# Supabase local config if any
+supabase/.temp/
