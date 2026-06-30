@@ -52,7 +52,7 @@ A secure management suite featuring:
 ### 2. Local Installation
 ```bash
 # Clone the repository
-git clone https://github.com/neuralboy/inmysolitude.git
+git clone https://github.com/neuralboy/in-my-solitude.git
 
 # Install dependencies
 npm install
